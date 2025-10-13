@@ -1,0 +1,4 @@
+edit these files:
+
+.github/workflows/build.yml
+config/west.yml
